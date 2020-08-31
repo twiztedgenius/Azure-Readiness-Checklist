@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/logo-azure-readiness-checklist.jpg" width="170">
+  <img src="https://github.com/twiztedgenius/Azure-Readiness-Checklist/blob/master/img/logo-azure-readiness-checklist.jpg" width="170">
   <br>
     <br>
   Azure Readiness Checklist
@@ -8,20 +8,20 @@
 </h1>
 
 <p align="center">
-    <img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/azurereadinesschecklist.gif?raw=true" width="700">
+    <img src="https://github.com/twiztedgenius/Azure-Readiness-Checklist/blob/master/img/azurereadinesschecklist.gif?raw=true" width="700">
 </p>
 
 ## Are you ready to go to prod on Azure? Use this checklist to find out
 
 Building production-grade infrastructure (as in, the type of infrastructure you’d bet your company on) involves a thousand little details. The vast majority of developers don’t know what those details are, so when you’re estimating a project, you usually forget about a number of critical and time-consuming details.
 
-To avoid this issue, every time you go to work on a new piece of infrastructure, go through the following checklist: https://azurechecklist.com/
+To avoid this issue, every time you go to work on a new piece of infrastructure, go through the following checklist: https://localhost/
 
 <p align="center">
-  <a href="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/CONTRIBUTING.md">
+  <a href="https://github.com/twiztedgenius/Azure-Readiness-Checklist/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
-      <a href="https://github.com/ghostinthewires/Azure-Readiness-Checklist/">
+      <a href="https://github.com/twiztedgenius/Azure-Readiness-Checklist/">
     <img src="https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen">
 </a>
 
@@ -29,7 +29,7 @@ To avoid this issue, every time you go to work on a new piece of infrastructure,
 
 ## Contributing
 
-**Open an issue or a [pull request](https://github.com/ghostinthewires/Azure-Readiness-Checklist/pulls) to suggest changes or additions.**
+**Open an issue or a [pull request](https://github.com/twiztedgenius/Azure-Readiness-Checklist/pulls) to suggest changes or additions.**
 
 ### Guide
 
@@ -37,7 +37,7 @@ The **Azure Readiness Checklist** repository consists of two branches:
 
 #### 1. `master`
 
-This branch consists of the `README.md` file that is automatically reflected on the [Azure Readiness Checklist](https://azurechecklist.com/) website.
+This branch consists of the `README.md` file that is automatically reflected on the [Azure Readiness Checklist](https://localhost/) website.
 
 #### 2. `develop`
 
@@ -47,24 +47,24 @@ This branch will be used to make some significant changes to the structure, cont
 
 If you have any question or suggestion, don't hesitate to use Twitter:
 
-* [Twitter](https://twitter.com/GhostInTheWire5)
+* On Teams
 
 ---
 
-## Azure Readiness Checklist Badge
+
 
 
 If you want to show you are following the rules of the Azure Readiness Checklist, put this badge on your README file!
 
-➔ [![Azure Readiness Checklist followed](https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/ghostinthewires/Azure-Readiness-Checklist/)
+➔ [![Azure Readiness Checklist followed](https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/twiztedgenius/Azure-Readiness-Checklist/)
 
 ```md
-[![Azure Readiness Checklist followed](https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/ghostinthewires/Azure-Readiness-Checklist/)
+[![Azure Readiness Checklist followed](https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/twiztedgenius/Azure-Readiness-Checklist/)
 ```
 
 ---
 
-Below you will find a raw version of the checklist but I highly recommend using the dynamic version at https://azurechecklist.com/ which allows you to generate a report!
+Below you will find a raw version of the checklist but I highly recommend using the dynamic version at https://localhost/ which allows you to generate a report!
 
 ## Everything you need to do before you go live
 

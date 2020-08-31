@@ -1,7 +1,7 @@
 {
     "short_name": "Azure Readiness Checklist",
     "name": "Azure Readiness Checklist",
-    "start_url": "https://azurechecklist.com/?utm_source=homescreen",
+    "start_url": "https://localhost/?utm_source=homescreen",
     "icons": [
       {
         "src": "/android-chrome-512x512.png",

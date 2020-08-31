@@ -1,13 +1,13 @@
 {
   "SITE_NAME": "The Azure Readiness Checklist",
   "INDEX_TITLE": "✨ Your Best Azure Readiness Tool ✨",
-  "URL_WEBSITE": "https://azurechecklist.com/",
+  "URL_WEBSITE": "https://localhost/",
   "SITE_TAGLINE": "🗂 Are you ready to go to prod on Azure? Use this checklist to find out!",
   "SITE_DESCRIPTION": "🗂 Are you ready to go to prod on Azure? Use this checklist to find out! Follow the rules and deliver the best of your work in a generated report!",
   "SITE_LANGUAGE": "en",
   "SITE_DIRECTION": "ltr",
-  "URL_GITHUB_ROOT": "https://github.com/ghostinthewires/Azure-Readiness-Checklist",
-  "URL_GITHUB_REPO": "https://github.com/ghostinthewires/Azure-Readiness-Checklist/tree/master",
+  "URL_GITHUB_ROOT": "https://github.com/twiztedgenius/Azure-Readiness-Checklist",
+  "URL_GITHUB_REPO": "https://github.com/twiztedgenius/Azure-Readiness-Checklist/tree/master",
   "HIGH_CHECKED": "✓ high priority",
   "MEDIUM_CHECKED": "✓ medium priority",
   "LOW_CHECKED": "✓ low priority",
@@ -38,6 +38,6 @@
     "TWITTER_VIA": "GhostInTheWire5",
     "TWITTER_HASHTAGS": "AzureChecklist",
     "STAR": "Star",
-    "GITHUB_STAR_MSG": "Star ghostinthewires/Azure-Readiness-Checklist on GitHub"
+    "GITHUB_STAR_MSG": "Star twiztedgenius/Azure-Readiness-Checklist on GitHub"
   }
 }

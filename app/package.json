@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ghostinthewires@github.com/ghostinthewires/Azure-Readiness-Checklist.git"
+    "url": "git+https://twiztedgenius@github.com/twiztedgenius/Azure-Readiness-Checklist.git"
   },
-  "author": "ghostinthewires",
+  "author": "twiztedgenius",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ghostinthewires/Azure-Readiness-Checklist/issues"
+    "url": "https://github.com/twiztedgenius/Azure-Readiness-Checklist/issues"
   },
-  "homepage": "https://github.com/ghostinthewires/Azure-Readiness-Checklist#readme",
+  "homepage": "https://github.com/twiztedgenius/Azure-Readiness-Checklist#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.6.3",
     "babel-cli": "^6.26.0",
